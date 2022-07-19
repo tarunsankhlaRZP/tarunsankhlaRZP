@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Tarun Sankhla
 
-         <h3 align="center">I’m a Software engineer at Razorpay.💜</h3>
-<hr>
+         I’m a Software engineer at Razorpay.💜
+
 
 <!--
 **tarunsankhlaRZP/tarunsankhlaRZP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
